@@ -235,12 +235,33 @@ public class clasePrincipal
         System.out.print(") = ");
         rac3.Mostrar();
         System.out.println("");
-        
+
+
+    /*
         //Comentario de prueba para comprobar los cambios
         
         claseRacional prueba = new claseRacional(20,6);
         System.out.print("racional prueba: ");
         prueba.Mostrar();
+    */
+        
+        
+        //Escribiendo desde GitHub
+
+        claseRacional github = new claseRacional(10,12);
+        System.out.print("github prueba: ");
+        github.Mostrar();
         
     }
 }
+
+
+
+
+
+
+
+
+
+
+
