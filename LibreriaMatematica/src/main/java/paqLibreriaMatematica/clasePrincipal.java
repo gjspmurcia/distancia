@@ -236,8 +236,11 @@ public class clasePrincipal
         rac3.Mostrar();
         System.out.println("");
         
+        //Comentario de prueba para comprobar los cambios
         
-        
+        claseRacional prueba = new claseRacional(20,6);
+        System.out.print("racional prueba: ");
+        prueba.Mostrar();
         
     }
 }
